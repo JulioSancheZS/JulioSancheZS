@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=JulioSancheZS&color=green)
+
+
 <h3 align="center">Hola 👋</h3>
 
 <p align="left">
